@@ -1,5 +1,6 @@
-package com.datastructures
+package com.douglas.datastructures
 
+import com.douglas.datastructures.Queue
 import junit.framework.TestCase.assertEquals
 import org.junit.Before
 import org.junit.Test

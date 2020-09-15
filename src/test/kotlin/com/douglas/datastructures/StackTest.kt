@@ -1,5 +1,6 @@
-package com.datastructures
+package com.douglas.datastructures
 
+import com.douglas.datastructures.Stack
 import junit.framework.TestCase.assertEquals
 import org.junit.Assert
 import org.junit.Before

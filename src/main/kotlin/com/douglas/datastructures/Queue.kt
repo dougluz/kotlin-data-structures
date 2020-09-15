@@ -1,4 +1,4 @@
-package com.datastructures
+package com.douglas.datastructures
 
 class Queue(size: Int) {
     var size = -1

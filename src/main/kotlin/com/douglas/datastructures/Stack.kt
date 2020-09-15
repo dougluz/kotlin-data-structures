@@ -1,4 +1,4 @@
-package com.datastructures
+package com.douglas.datastructures
 
 class Stack (size: Int) {
     private var stackSize = size
@@ -24,6 +24,8 @@ class Stack (size: Int) {
     }
 
     fun size(): Int = top + 1
+
+    fun isEmpty() = isStackEmpty()
 
     fun peek(): Int = stackArr[this.top]
 
